@@ -1,5 +1,5 @@
 {
-  name: "[IN-DEV] 0.5 BETA",
-  version: 0.5,
-  available: true
+  name: "[IN-DEV] 0.51 BETA",
+  version: 0.51,
+  available: false
 }
