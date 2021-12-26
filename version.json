@@ -1,4 +1,6 @@
 {
   name: "[IN-DEV] 0.4",
-  version: 0.4
+  version: 0.4,
+  latest: 0.4,
+  beta: 0.51
 }
