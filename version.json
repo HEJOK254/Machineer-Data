@@ -2,5 +2,5 @@
   name: "[IN-DEV] 0.4",
   latest: 0.4,
   beta: 0.51,
-  betaAvailable: true
+  lastAvailable: 0.5
 }
